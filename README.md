@@ -77,7 +77,7 @@ Khi đó phải tồn tại các file sau:
 
 https://github.com/anhyeuviolet/nv4-xenforo-integrate/blob/master/NukeViet_Files/forumxenforo.php
 
-Upload file `forumphpbb3.php` lên thư mục gốc của nukeviet (file `forumxenforo.php` ngang hàng với file `index.php` và `mainfile.php` của Nukeviet 4).
+Upload file `forumxenforo.php` lên thư mục gốc của nukeviet (file `forumxenforo.php` ngang hàng với file `index.php` và `mainfile.php` của Nukeviet 4).
 
 7) Nếu bạn đang đăng nhập với tài khoản quản trị hoặc thành viên, cần logout các tài khoản này.
 
