@@ -8,7 +8,7 @@ Tested: Xenforo 1.5.2
 1) Cài đặt hoặc sử dụng Nukeviet 4 bản mới nhất (Đã thử nghiệm với bản 4.0.29 - 4.1). 
 
 
-1.1) Cài đặt hoàn chỉnh Xenforo (Test tren Xenfor 1.5.2)
+1.1) Cài đặt hoàn chỉnh Xenforo (Test trên Xenforo 1.5.2)
 
 
 (Diễn đàn và Nukeviet phải cùng 1 cơ sở dữ liệu)
