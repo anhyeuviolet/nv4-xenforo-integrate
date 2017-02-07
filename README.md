@@ -47,7 +47,7 @@ Khi đó phải tồn tại các file sau:
 > forum/nukeviet/register.php
 
 
-+ Thư mục chứa forum phải ngang hàng với file index.php và thư mục /includes/ của Nukeviet.
++ Thư mục chứa forum phải ngang hàng với file index.php và thư mục `/includes/` của Nukeviet.
 
 
 5) Đăng nhập với quyền Quản trị tối cao (God Administrator).
@@ -79,7 +79,7 @@ Khi đó có thể bỏ qua bước 8 bên dưới để giữ lại hoàn toàn
 
 https://github.com/anhyeuviolet/nv4-xenforo-integrate/blob/master/NukeViet_Files/forumxenforo.php
 
-Upload file `forumxenforo.php` lên thư mục gốc của nukeviet (file `forumxenforo.php` ngang hàng với file `index.php` và `mainfile.php` của Nukeviet 4).
+Upload file `forumxenforo.php` lên thư mục gốc của nukeviet (file `forumxenforo.php` ngang hàng với file `index.php` và thư mục `includes` của Nukeviet 4).
 
 7) Nếu bạn đang đăng nhập với tài khoản quản trị hoặc thành viên, cần logout các tài khoản này.
 
